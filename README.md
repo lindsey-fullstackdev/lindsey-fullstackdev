@@ -12,7 +12,7 @@
 
 <h3 align="center">Connect with me</h3>
 <p align="center">
-    <a href="linkedin.com/in/lindseystead" target="_blank" rel="noreferrer">LinkedIn</a> | 
+   <a href="https://www.linkedin.com/in/lindseystead" target="_blank" rel="noreferrer">LinkedIn</a>
     <a href="https://github.com/lindsey-fullstackdev" target="_blank" rel="noreferrer">GitHub</a>
 </p>
 

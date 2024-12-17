@@ -5,7 +5,7 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lindsey-fullstackdev" alt="lindsey-fullstackdev" /></a> </p>
 
-- 🌱 Currently learning **Full Stack Web Development**, with a focus on **React**, **Node.js**, and **Artificial Intelligence algorithms**.
+- 🌱 Currently learning **Full Stack Web Development** in my last semesters of my Compmuting Sciences degree**.
 - ⚡ I have a background in **Health Sciences** and **Psychology**, which gives me a unique perspective on problem-solving and user-centered design.
 - 💻 **Freelance Experience:** I’ve worked with clients to modernize websites, optimize system performance, perform data recovery, and improve cybersecurity practices.
 - 🎯 Passionate about building user-friendly, efficient web applications, and exploring innovative technologies like **AI** and **cybersecurity**.

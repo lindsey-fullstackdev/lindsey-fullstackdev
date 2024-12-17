@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Full Stack Web Development**, **React**, **Node.js**, and exploring **Artificial Intelligence algorithms**.
 
-- ⚡ Fun fact: **I’ve earned three degrees** in **Health Sciences**, **Psychology**, and now **Computer Science**. It’s been a unique journey of learning how different disciplines approach problem-solving, giving me a diverse and holistic perspective on tackling complex challenges in tech.
+- ⚡ Fun fact: **I love building and designing things** with a diverse education in various academic fields such as **Health Sciences**, **Psychology**, and now **Computer Science** I have finally found what I am passionate about. It’s been a unique journey of learning how different disciplines approach problem-solving, giving me a diverse and holistic perspective on tackling complex challenges in tech. 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

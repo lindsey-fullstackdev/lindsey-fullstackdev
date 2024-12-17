@@ -1,22 +1,23 @@
 <h1 align="center">Hi 👋, I'm Lindsey</h1>
-<h3 align="center">Junior Software Developer | Passionate About Full Stack Web Development & AI Algorithms</h3>
+<h3 align="center">Junior Full-Stack Developer | Passionate About Web Development, AI, & Cybersecurity</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lindsey-fullstackdev&label=Profile%20views&color=0e75b6&style=flat" alt="lindsey-fullstackdev" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=lindsey-fullstackdev&label=Profile%20views&color=0e75b6&style=flat" alt="lindsey-fullstackdev" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lindsey-fullstackdev" alt="lindsey-fullstackdev" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lindsey-fullstackdev" alt="lindsey-fullstackdev" /></a> </p>
 
-- 🌱 I’m currently learning **Full Stack Web Development**, **React**, **Node.js**, and exploring **Artificial Intelligence algorithms**.
+- 🌱 Currently learning **Full Stack Web Development**, with a focus on **React**, **Node.js**, and **Artificial Intelligence algorithms**.
+- ⚡ I have a background in **Health Sciences** and **Psychology**, which gives me a unique perspective on problem-solving and user-centered design.
+- 💻 **Freelance Experience:** I’ve worked with clients to modernize websites, optimize system performance, perform data recovery, and improve cybersecurity practices.
+- 🎯 Passionate about building user-friendly, efficient web applications, and exploring innovative technologies like **AI** and **cybersecurity**.
 
-- ⚡ Fun fact: **I love building and designing things** with a diverse education in various academic fields such as **Health Sciences**, **Psychology**, and now **Computer Science** I have finally found what I am passionate about. It’s been a unique journey of learning how different disciplines approach problem-solving, giving me a diverse and holistic perspective on tackling complex challenges in tech. 
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-    <a href="https://www.linkedin.com/in/lindsey-fullstackdev" target="_blank" rel="noreferrer">LinkedIn</a> | 
+<h3 align="center">Connect with me</h3>
+<p align="center">
+    <a href="https://www.linkedin.com/in/lindsey_stead" target="_blank" rel="noreferrer">LinkedIn</a> | 
     <a href="https://github.com/lindsey-fullstackdev" target="_blank" rel="noreferrer">GitHub</a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
+<h3 align="center">Languages and Tools</h3>
+<p align="center">
     <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a>
     <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a>
     <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a>
@@ -33,6 +34,6 @@
     <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lindsey-fullstackdev&show_icons=true&locale=en&layout=compact" alt="lindsey-fullstackdev" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lindsey-fullstackdev&show_icons=true&locale=en&layout=compact" alt="lindsey-fullstackdev" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lindsey-fullstackdev&show_icons=true&locale=en" alt="lindsey-fullstackdev" /></p>

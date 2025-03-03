@@ -10,11 +10,19 @@
 - 💻 **Freelance Experience:** I’ve worked with clients to modernize websites, build custom web and mobile apps, optimize system performance, perform data recovery, and improve cybersecurity practices.
 - 🎯 Passionate about building user-friendly, efficient web and mobile applications, and exploring innovative software solutions technologies like **AI** and **cybersecurity**.
 
-<h3 align="center">Connect with me</h3>
+<h3 align="center">📫 Connect with Me</h3>
 <p align="center">
-   <a href="https://www.linkedin.com/in/lindseystead" target="_blank" rel="noreferrer">LinkedIn</a>
-    <a href="https://github.com/lindsey-fullstackdev" target="_blank" rel="noreferrer">GitHub</a>
+  <a href="https://www.linkedin.com/in/lindseystead" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/lindsey-fullstackdev" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://www.youtube.com/@Lindsey-FullStackDev" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
+  </a>
 </p>
+
 
 <h3 align="center">Languages and Tools</h3>
 <p align="center">

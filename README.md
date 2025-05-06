@@ -1,16 +1,99 @@
-<h1 align="center">Hi 👋, I'm Lindsey</h1>
-<h3 align="center">Junior Full-Stack Developer | Passionate About Web Development, AI, & Cybersecurity</h3>
+```markdown
+<h1 align="center">Hi, I'm Lindsey Stead 👋</h1>
+<h3 align="center">Full-Stack Developer | AI & Cybersecurity Explorer | Advocate for Ethical Tech</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=lindsey-fullstackdev&label=Profile%20views&color=0e75b6&style=flat" alt="lindsey-fullstackdev" /> </p>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&center=true&width=500&lines=Driven+by+impact.;Rooted+in+resilience.;Built+for+real+world+problems." />
+</p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lindsey-fullstackdev" alt="lindsey-fullstackdev" /></a> </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=lindsey-fullstackdev&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+</p>
 
-- 🌱 Currently working on **Artificial Intelligence**  and **Full Stack Web Development** **.
-- ⚡ I have a background in **Health Sciences** and **Psychology**, which gives me a unique perspective on problem-solving and user-centered design.
-- 💻 **Freelance Experience:** I’ve worked with clients to modernize websites, build custom web and mobile apps, optimize system performance, perform data recovery, and improve cybersecurity practices.
-- 🎯 Passionate about building user-friendly, efficient web and mobile applications, and exploring innovative software solutions technologies like **AI** and **cybersecurity**.
+---
 
-<h3 align="center">📫 Connect with Me</h3>
+## 👩‍💻 About Me
+
+I’m a full-stack developer with a background in health sciences and psychology, now applying those skills to solve technical problems with empathy and precision. Currently completing my BCompSc, I specialize in web development and cybersecurity, with a strong focus on accessibility, automation, and real-world application.
+
+- 🎓 Final-year Bachelor of Computing Science student (TRU)
+- 🧠 Previous degrees in Health Sciences and Psychology
+- 🛠️ Founder of **Lifesaver Technology Services** – building tech for communities and nonprofits
+- 📱 Currently shipping a digital check-in & appointment app for a local food bank
+- 🔐 Advocating for ethical and inclusive tech design in AI and security
+
+---
+
+## 🧭 Current Focus
+
+- 🔧 Building scalable React + Chakra UI frontends with TypeScript
+- 🧪 Streamlining CSV-based automation with Python
+- 🛡 Exploring secure-by-design architecture for public-facing apps
+- 🤖 Applying LLMs (GPT-4, Claude, Hugging Face) for task automation and assistive tools
+- 🧰 Contributing to open-source tools that align with ethical tech principles
+
+---
+
+## ⚙️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nodejs,express,python,mongodb,mysql,html,css,tailwind,chakra,figma,git,github,linux,vscode" />
+</p>
+
+---
+
+## 🏗️ Projects (Selected)
+
+- **COFB Check-In System** (React, TypeScript, Chakra UI)  
+  A digital intake system for the Central Okanagan Food Bank, helping 130+ clients check in daily via QR or mobile forms.
+
+- **Cyber Awareness Microtraining** *(in progress)*  
+  A bite-sized interactive security training solution for non-technical teams.
+
+- **Lifesaver Tech Freelance Work**  
+  Modernizing and restoring websites, improving cybersecurity practices, and building ethical automation tools for clients.
+
+---
+
+## 🔍 Visibility Note
+
+Many of my professional builds were done privately or under NDA. I'm now curating open repositories that demonstrate my skills and values. Watch this space for:
+
+- Modular component libraries (Chakra UI + TypeScript)
+- Ethical AI projects using OpenAI & Hugging Face
+- Automation and integration scripts in Python
+
+---
+
+## 👣 Identity & Advocacy
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Women%20In%20Tech-%23FF69B4?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Freelancer-%2300BFFF?style=for-the-badge&logo=freelancer&logoColor=white" />
+  <img src="https://img.shields.io/badge/First%20Gen%20Grad-%2300C49A?style=for-the-badge&logo=graduation-cap&logoColor=white" />
+  <img src="https://img.shields.io/badge/Mom%20in%20Tech-%23FFD700?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Built%20from%20rock%20bottom-%23A020F0?style=for-the-badge&logo=terminal&logoColor=white" />
+</p>
+
+---
+
+## 📊 GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lindsey-fullstackdev&theme=radical" />
+</p>
+<p align="center">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=lindsey-fullstackdev&theme=github-compact" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=lindsey-fullstackdev&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lindsey-fullstackdev&layout=compact&theme=radical" />
+</p>
+
+---
+
+## 📫 Contact
+
 <p align="center">
   <a href="https://www.linkedin.com/in/lindseystead" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
@@ -18,30 +101,12 @@
   <a href="https://github.com/lindsey-fullstackdev" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  <a href="https://www.youtube.com/@Lindsey-FullStackDev" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
+  <a href="mailto:lindsey@lifesavertech.ca" target="_blank">
+    <img src="https://img.shields.io/badge/Email-lindsey@lifesavertech.ca-blue?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
 
+---
 
-<h3 align="center">Languages and Tools</h3>
-<p align="center">
-    <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a>
-    <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a>
-    <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a>
-    <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-    <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
-    <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
-    <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-    <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
-    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
-    <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
-    <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
-    <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>
-</p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lindsey-fullstackdev&show_icons=true&locale=en&layout=compact" alt="lindsey-fullstackdev" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lindsey-fullstackdev&show_icons=true&locale=en" alt="lindsey-fullstackdev" /></p>
+<p align="center"><i>“Software is my medium. People are my purpose.”</i></p>
+```

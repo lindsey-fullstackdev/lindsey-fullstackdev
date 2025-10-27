@@ -43,7 +43,7 @@ I’ve **architected, debugged, and deployed multiple full-stack production syst
 
 ## 🏗️ Featured Projects
 
-### 🌐 [COFB Digital Check-In System](https://github.com/lindsey-fullstackdev/cofb-checkin)
+### 🌐 [COFB Digital Check-In System](https://github.com/lindsey-fullstackdev/cofb-checkin](https://thecofb-checkin.ca) PRIVATE PROPIETARY REPO)
 **React • TypeScript • Chakra UI • Supabase Auth • Railway Backend • Vercel Frontends**  
 A production-ready intake and scheduling system built for the **Central Okanagan Food Bank**, serving 130+ daily clients.  
 > Architected and deployed a multi-location platform featuring secure authentication, smart CSV parsing, and automated data flows to improve volunteer efficiency.

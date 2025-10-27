@@ -1,5 +1,5 @@
 <h2 align="center">👋 Hi, I'm Lindsey Stead</h2>
-<h3 align="center">Full-Stack Software Engineer | Human-Centered Systems | Reliable. Resilient. Ready to Build.</h3>
+<h3 align="center">Full-Stack Software Engineer & Support Engineer | Human-Centered Systems | Reliable. Resilient. Ready to Build & Debug.</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&center=true&width=600&lines=Building+reliable+software+with+heart.;Engineering+systems+that+stand+up+under+pressure.;Turning+real-world+challenges+into+scalable+solutions." />
@@ -8,10 +8,10 @@
 ---
 
 ## 👩‍💻 About Me
-I’m a **full-stack software engineer** who builds systems the same way I’ve built my life — with precision, persistence, and purpose.  
+I’m a **full-stack software engineer and support engineer** who builds systems the same way I’ve built my life — with precision, persistence, and purpose.  
 My background spans **Computing Science, Health Sciences, and Psychology**, giving me a human-centered approach to technology and a focus on systems that make life simpler for real people.
 
-I’ve **architected, integrated, and deployed multiple full-stack production systems** across web and mobile platforms — handling everything from UI/UX and API design to deployment and security.
+I’ve **architected, debugged, and deployed multiple full-stack production systems** across web and mobile platforms — handling everything from UI/UX and API design to deployment, documentation, and security.
 
 - 🎓 Bachelor of Computing Science (TRU 2025 – With Distinction)  
 - 🎓 Additional degrees in Health Sciences and Psychology  
@@ -22,9 +22,18 @@ I’ve **architected, integrated, and deployed multiple full-stack production sy
 
 ---
 
+### 🧩 What I Do
+- Debug and reproduce complex issues across web and mobile systems  
+- Document technical findings and create clear troubleshooting guides  
+- Support users and teams in understanding and adopting new tools  
+- Build automation scripts and developer utilities to simplify workflows  
+
+---
+
 ## 🌟 Highlights
-- 🚀 Deployed full-stack systems used by real organizations and end-users  
-- 🔐 Experienced in secure, scalable, and maintainable architecture design  
+- 🛠️ Debugged, documented, and supported live full-stack systems used by real organizations and end-users  
+- 🚀 Deployed reliable, scalable applications that continue to serve daily users  
+- 🔐 Experienced in secure, maintainable architecture design  
 - 🤖 Built AI-assisted mobile applications integrating OpenAI APIs  
 - 💬 Advocate for ethical, human-centered technology and accessibility  
 - 🧱 Strong foundation in data structures, algorithms, and system design  
@@ -36,7 +45,7 @@ I’ve **architected, integrated, and deployed multiple full-stack production sy
 
 ### 🌐 [COFB Digital Check-In System](https://github.com/lindsey-fullstackdev/cofb-checkin)
 **React • TypeScript • Chakra UI • Supabase Auth • Railway Backend • Vercel Frontends**  
-A production-ready intake and scheduling system built for the **Central Okanagan Food Bank**, serving 130 + daily clients.  
+A production-ready intake and scheduling system built for the **Central Okanagan Food Bank**, serving 130+ daily clients.  
 > Architected and deployed a multi-location platform featuring secure authentication, smart CSV parsing, and automated data flows to improve volunteer efficiency.
 
 ---
@@ -66,9 +75,7 @@ A collection of lightweight automation and AI utilities that streamline real-wor
 ## 🧰 Tech Stack
 
 <p align="center">
-  <!-- Core Front-End & Back-End -->
   <img src="https://skillicons.dev/icons?i=react,typescript,nodejs,express,python,php,mysql,java,html,css,tailwind,chakra" /><br/>
-  <!-- Systems / Mobile / Tools -->
   <img src="https://skillicons.dev/icons?i=c,cpp,cs,android,git,github,linux,vscode,figma" />
 </p>
 
@@ -76,7 +83,13 @@ A collection of lightweight automation and AI utilities that streamline real-wor
 > **Also:** Java · PHP · MySQL · Python · C · C++ · C#  
 > **Mobile:** Android (Java/Kotlin) · React Native (Expo)  
 > **Security:** Network Security · Secure System Design · Authentication & Data Protection  
-> **Tools:** Git · Linux · VS Code · Figma · Chakra UI · Tailwind CSS
+> **Tools:** Git · Linux · VS Code · Figma · Chakra UI · Tailwind CSS  
+
+---
+
+## 🧠 Developer Support & Tools
+I’m passionate about improving the developer experience — from writing clear documentation to automating testing and deployment.  
+I regularly build and maintain CLI utilities, dashboards, and scripts that help streamline how people interact with technology.
 
 ---
 

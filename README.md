@@ -1,5 +1,5 @@
 <h2 align="center">👋 Hi, I'm Lindsey Stead</h2>
-<h3 align="center">Software & Support Engineer | Systems Thinker | Human-Centered Design | Reliable. Resilient. Ready to Build & Debug.</h3>
+<h3 align="center">Software & Support Engineer | Systems Thinker | Human-Centered Design | Reliable. Resilient. Building and Debugging. </h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&center=true&width=600&lines=Building+reliable+software+with+heart.;Engineering+systems+that+stand+up+under+pressure.;Turning+real-world+challenges+into+scalable+solutions." />
@@ -93,9 +93,9 @@ A collection of lightweight automation and AI utilities that streamline real-wor
 
 ---
 
-## 🧠 Developer Support & Tools
-I’m passionate about improving the developer experience — from writing clear documentation to automating testing and deployment.  
-I regularly build and maintain CLI utilities, dashboards, and scripts that help teams ship faster, safer, and smarter.
+## 🧠 Developer Stats
+I’m passionate about improving the developer experience which includes everything from writing clear code, documentation or automating reptitive tasks for business envrionments and consuling with people on how to use digital tools on ways to incorporate tehcnolgoy and AI into their dialy lives to make their exprience using technology better.  
+Stay tuned for more Github repos as I regularly will be building in my favourite tech stack and as I begin to deploy and maintain CLI utilities, dashboards, and scripts that help teams and businesses ship faster, safer, and smarter software and tooling. 
 
 ---
 
@@ -120,8 +120,14 @@ I regularly build and maintain CLI utilities, dashboards, and scripts that help 
 ## 🤝 Connect with Me
 
 <p align="center">
+  <i>If you're a food bank or community organization in Canada interested in using or adapting my digital check-in software, reach out — I'm open to collaboration.</i><br/>
+ 
+  <br/>
   <a href="https://www.linkedin.com/in/lindseystead" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:lindsey@lifesavertech.ca" target="_blank">
+    <img src="https://img.shields.io/badge/Email-lindsey@lifesavertech.ca-blue?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 
 </p>

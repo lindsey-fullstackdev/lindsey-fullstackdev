@@ -82,7 +82,7 @@ A collection of lightweight automation and AI utilities that streamline real-wor
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,typescript,nodejs,express,python,php,mysql,java,html,css,tailwind,chakra" /><br/>
-  <img src="https://skillicons.dev/icons?i=c,cpp,cs,android,git,github,linux,vscode,figma" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,cs,git,github,linux,vscode,figma" />
 </p>
 
 > **Primary:** React · TypeScript · Node.js · Supabase · React Native  
@@ -123,9 +123,7 @@ I regularly build and maintain CLI utilities, dashboards, and scripts that help 
   <a href="https://www.linkedin.com/in/lindseystead" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:lindsey@lifesavertech.ca" target="_blank">
-    <img src="https://img.shields.io/badge/Email-lindsey@lifesavertech.ca-blue?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+
 </p>
 
 ---

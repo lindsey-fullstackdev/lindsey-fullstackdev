@@ -1,5 +1,5 @@
 <h2 align="center">👋 Hi, I'm Lindsey Stead</h2>
-<h3 align="center">Software & Support Engineer | Systems Thinker | Human-Centered Design | Reliable. Resilient. Building and Debugging. </h3>
+<h3 align="center">Software & Support Engineer | Systems Thinker | Human-Centered Design | Reliable. Resilient. Building, and Debugging.</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&center=true&width=600&lines=Building+reliable+software+with+heart.;Engineering+systems+that+stand+up+under+pressure.;Turning+real-world+challenges+into+scalable+solutions." />
@@ -24,7 +24,7 @@ I specialize in **React, TypeScript, Node.js, and Supabase**, but my real streng
 
 ### 💻 Engineering Philosophy
 I believe great engineering is about empathy, precision, and perseverance.  
-Whether I’m debugging an API, designing an interface, or re-thinking an architecture, I focus on solving root causes, writing maintainable code, and leaving things better than I found them.
+Whether I’m debugging an API, designing an interface, or re-thinking an architecture, I focus on solving root causes, writing maintainable code, and leaving things better than I found them. I put my best foot forward in everything I do — my values and my work ethic are what set me apart in the field. I don't always get it right, but I won't stop until I do. And if there is no known way, I’ll create one.
 
 ---
 
@@ -50,10 +50,10 @@ Whether I’m debugging an API, designing an interface, or re-thinking an archit
 ## 🏗️ Featured Projects
 
 ### 🌐 [COFB Digital Check-In System](https://cofb-checkin.ca)
-**React • TypeScript • Chakra UI • Supabase Auth • Railway Backend • 2 Vercel Frontend Components (Admin and Client)**  
+**React • TypeScript • Chakra UI • Supabase Auth • Railway Backend • Two Vercel Frontend Components (Admin and Client)**  
 A production-ready intake and scheduling platform built for the **Central Okanagan Food Bank**, serving 130+ daily clients.  
-> Architected and deployed a multi-location platform featuring secure authentication, smart CSV parsing, and automated data flows to improve volunteer efficiency.
-> A full propietary software thats ready to serve locations across canada and scale nationally
+> Architected and deployed a multi-location platform featuring secure authentication, smart CSV parsing, and automated data flows to improve volunteer efficiency.  
+> A fully proprietary system that’s ready to serve locations across Canada and scale nationally.
 
 ---
 
@@ -94,8 +94,10 @@ A collection of lightweight automation and AI utilities that streamline real-wor
 ---
 
 ## 🧠 Developer Stats
-I’m passionate about improving the developer experience which includes everything from writing clear code, documentation or automating reptitive tasks for business envrionments and consuling with people on how to use digital tools on ways to incorporate tehcnolgoy and AI into their dialy lives to make their exprience using technology better.  
-Stay tuned for more Github repos as I regularly will be building in my favourite tech stack and as I begin to deploy and maintain CLI utilities, dashboards, and scripts that help teams and businesses ship faster, safer, and smarter software and tooling. 
+I’m passionate about improving the developer experience — from writing clear code and documentation to automating repetitive tasks for business environments.  
+I also consult with people and organizations on how to integrate technology and AI into their daily lives to make their experience with digital tools more efficient and enjoyable.  
+
+Stay tuned for more GitHub repos — I regularly build in my favorite tech stack and am continuing to deploy and maintain CLI utilities, dashboards, and scripts that help teams and businesses ship faster, safer, and smarter.
 
 ---
 
@@ -111,25 +113,18 @@ Stay tuned for more Github repos as I regularly will be building in my favourite
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lindseystead&layout=compact&theme=radical&hide_border=true" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=lindseystead&theme=react-dark&hide_border=true" />
-</p>
-
 ---
 
 ## 🤝 Connect with Me
 
 <p align="center">
-  <i>If you're a food bank or community organization in Canada interested in using or adapting my digital check-in software, reach out — I'm open to collaboration.</i><br/>
- 
-  <br/>
+  <i>If you're a food bank or community organization in Canada interested in using or adapting my digital check-in software, reach out — I'm open to collaboration.</i><br/><br/>
   <a href="https://www.linkedin.com/in/lindseystead" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:lindsey@lifesavertech.ca" target="_blank">
     <img src="https://img.shields.io/badge/Email-lindsey@lifesavertech.ca-blue?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-
 </p>
 
 ---

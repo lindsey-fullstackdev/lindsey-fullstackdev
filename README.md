@@ -3,25 +3,25 @@
 
 ## 👩‍💻 About Me
 
-I’m a **full-stack developer** who does a bit of everything — software, systems, troubleshooting, and whatever else it takes to make tech work for real people.  
+I’m a **full-stack developer** who does a bit of everything — software, systems, troubleshooting, and whatever it takes to make tech work for real people.  
 I’ve built apps from scratch, debugged code at 2 a.m., redesigned UIs, and figured out why someone’s printer refuses to talk to their Wi-Fi. It’s all problem-solving to me.
 
-I’ve worked across a bunch of stacks — **React, Node.js, TypeScript, Supabase, SQL, and Python** — plus **PHP and MongoDB** when the project calls for it.  
-I like clean code, simple design, and building stuff that doesn’t fall apart under pressure.
+I’ve worked across many stacks — **React, Node.js, TypeScript, Supabase, SQL, and Python** — plus **PHP and MongoDB** when the project calls for it.  
+I like clean code, simple design, and building things that don’t fall apart under pressure.
 
 I’ve also done UI/UX prototyping, user research, and full database design. Basically, if it connects to a wire or an API, I’ll make it work.  
 I build software the same way I’ve built my life — with persistence, curiosity, and a sense of humor when things break.
 
-I hold degrees in **Computing Science (with Distinction)**, **Health Sciences**, and **Psychology**. It’s a weird mix, but it means I think like both a coder *and* a human and it truly trained me to think in a high-level systems way. 
+I hold degrees in **Computing Science (with Distinction)**, **Health Sciences**, and **Psychology**. It’s an unusual mix, but it means I think like both a coder *and* a human — and it trained me to approach everything with systems thinking.
 
-Through my small business, **Lifesaver Technology Services**, I help local businesses and nonprofits with IT support, automation, and software that makes their lives easier.
+Through my small business, **Lifesaver Technology Services**, I help home users, businesses, and nonprofits with everything from IT support to automation tools and custom web or mobile software.  
+I started it during my academic journey, but now I’m looking to join a **software team** where my drive, technical skills, and experience can help a company reach its goals.
 
-Now that I’m done studying, I’m looking to **join a tech company that’s building next-gen AI tools** — ideally in a **remote, full-time role** where I can collaborate, ship code, and keep learning. I’ll be posting more of my projects here soon.  
+Now that I’m done studying, I’m excited to join a tech company that’s building **next-gen AI tools or impactful software** — ideally in a **remote, full-time role** where I can collaborate, ship code, and keep learning. I’ll be posting more of my projects here soon as I move into this next stage.
 
-Honestly, it takes a lot to scare me these days — and I bring that calm, people-first mindset into every tech problem I solve. 
+Honestly, it takes a lot to scare me these days — and I bring that calm, people-first mindset into every problem I solve.
 
 > “I don’t just code — I keep systems (and people) running. And if things catch fire, I’ll figure out how to put them out.”
-
 
 
 ### 💻 Engineering Philosophy

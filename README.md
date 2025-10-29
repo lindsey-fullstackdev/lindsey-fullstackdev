@@ -66,7 +66,7 @@ A full-stack mobile wellness platform designed to support caregivers facing burn
 
 ### 🐾 [Pawsitive Placements](https://github.com/lindseystead/pawsitive-placements)
 **PHP • MySQL • Bootstrap**  
-A full-stack pet rehoming and adoption platform connecting owners with adopters.  
+A full-stack pet rehoming and adoption platform that serves to become a centralized onlike system that connects pet owners with new homes.  
 > Designed the complete SQL database schema and backend logic, implemented secure authentication, image uploads, and intelligent matching filters.  
 Deployed as a live, production-ready web application.
 

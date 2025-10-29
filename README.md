@@ -1,23 +1,28 @@
-<h2 align="center">👋 Hi, I'm Lindsey Stead</h2>
-<h3 align="center">Full-Stack Software & Support Developer | Systems Thinker | Human-Centered Design | Reliable. Resilient. Real.</h3>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&center=true&width=600&lines=Building+reliable+software+with+heart.;Engineering+systems+that+stand+up+under+pressure.;Turning+real-world+tech+challenges+into+scalable+solutions." />
-</p>
-
----
+<h2 align="center">👋 Hey, I'm Lindsey Stead</h2>
+<h3 align="center">Full-Stack Developer & Tech Support Generalist | I build things that actually work (and fix the ones that don’t).</h3>
 
 ## 👩‍💻 About Me
-I’m a **software and support developer** who builds and maintains systems that hold up under pressure — the same way I have in life.  
 
-I hold degrees in **Computing Science (with Distinction)**, **Health Sciences**, and **Psychology** — a blend that gives me both technical precision and human insight. I bring analytical thinking, empathy, and systems design together to build solutions that actually make life easier for people.
+I’m a **full-stack developer** who does a bit of everything — software, systems, troubleshooting, and whatever else it takes to make tech work for real people.  
+I’ve built apps from scratch, debugged code at 2 a.m., redesigned UIs, and figured out why someone’s printer refuses to talk to their Wi-Fi. It’s all problem-solving to me.
 
-I’ve **architected, debugged, and deployed full-stack production systems** for real organizations, handling everything from **UI/UX and API design to databases, documentation, and security**. I also provide **IT support and automation solutions** for individuals and small businesses through my company, **Lifesaver Technology Services** — helping clients simplify their tech and keep things running smoothly.
+I’ve worked across a bunch of stacks — **React, Node.js, TypeScript, Supabase, SQL, and Python** — plus **PHP and MongoDB** when the project calls for it.  
+I like clean code, simple design, and building stuff that doesn’t fall apart under pressure.
 
-I specialize in **React, TypeScript, Node.js, Supabase, and SQL**, with hands-on experience in **Python, React Native, and PHP**.  
-> “I don’t just write code. I engineer systems that last — and I make them better when they break.”
+I’ve also done UI/UX prototyping, user research, and full database design. Basically, if it connects to a wire or an API, I’ll make it work.  
+I build software the same way I’ve built my life — with persistence, curiosity, and a sense of humor when things break.
 
----
+I hold degrees in **Computing Science (with Distinction)**, **Health Sciences**, and **Psychology**. It’s a weird mix, but it means I think like both a coder *and* a human and it truly trained me to think in a high-level systems way. 
+
+Through my small business, **Lifesaver Technology Services**, I help local businesses and nonprofits with IT support, automation, and software that makes their lives easier.
+
+Now that I’m done studying, I’m looking to **join a tech company that’s building next-gen AI tools** — ideally in a **remote, full-time role** where I can collaborate, ship code, and keep learning. I’ll be posting more of my projects here soon.  
+
+Honestly, it takes a lot to scare me these days — and I bring that calm, people-first mindset into every tech problem I solve. 
+
+> “I don’t just code — I keep systems (and people) running. And if things catch fire, I’ll figure out how to put them out.”
+
+
 
 ### 💻 Engineering Philosophy
 Great engineering starts with empathy and ends with reliability.  
@@ -47,10 +52,10 @@ Whether I’m debugging an API, automating a process, or rethinking an interface
 
 ## 🏗️ Featured Projects
 
-### 🌐 [COFB Digital Check-In System](https://cofb-checkin.ca)
-**React • TypeScript • Chakra UI • Supabase Auth • Railway Backend • Vercel Frontends**  
-A digital appointment and check-in system built for a community food bank to streamline client service and reduce volunteer workload.  
-> Architected a multi-location platform with secure authentication, CSV automation, and responsive UI.  
+### 🌐 [Foodbank Digital Check-In System](https://github.com/lindseystead/foodbank-checkin)
+**React • TypeScript • Chakra UI • Supabase Auth • Railway Backend - AWS For Production and Foodbanks in Canad for Privacy Compliance • Vercel Frontends (canadian cloud hosting servers)**  
+A final capstone project for a local foodubank that is a digital appointment and check-in and appointment software system for a food bank to streamline client service and reduce volunteer workload. Ready for licensing for other foodbanks 
+> Architected a multi-location platform with secure authentication platform for staff and volunteer admins to login, CSV parsing, mapping and automation tools, best practices in UI/UX design anresponsive UI.  
 > Fully proprietary and ready to scale across Canada.
 
 ---
@@ -69,7 +74,7 @@ A secure pet adoption and rehoming system with admin dashboards, authentication,
 
 ---
 
-### ⚙️ [Ethical Automation Tools](https://github.com/lindseystead/ethical-automation-tools)
+### ⚙️ [Ethical Automation Tools] - COMING SOON 
 **Python • APIs • LLMs**  
 Lightweight automation and AI utilities that simplify daily workflows while prioritizing privacy and ethical data handling.
 

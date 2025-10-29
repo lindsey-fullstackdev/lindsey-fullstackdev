@@ -10,13 +10,13 @@
 ## 👩‍💻 About Me
 
 I’m a **software and support engineer** who builds and maintains systems that stand up under pressure — the same way I have in life.  
-With degrees in **Computing Science (with Distinction)**, **Health Sciences**, and **Psychology**, I bring a rare mix of technical precision, human insight, and systems thinking to every project I take on.
+With degrees in **Computing Science and a computing science diploma  (with Distinction)**, **Health Sciences**, and **Psychology** degrees. Within my software and suport projects what sets me apart is I bring a rare mix of technical precision, human insight and analysis, and high-level systems thinking to every project I take on. I understand the motives behind user behavior and user experince and am well-versed in the psychological 
 
-I’ve **architected, debugged, and deployed full-stack production systems** used by real organizations — handling everything from **UI/UX and API design to system modeling, deployment, documentation, and security**. I focus on clarity, reliability, and impact — because software isn’t just code, it’s infrastructure for people’s lives.
+I’ve **architected, debugged, and deployed full-stack production systems** used by real organizations and for all my projects I have been respnsible handling everything from **UI/UX and API design to system modeling, deployment, documentation, database design and security**. I focus on clarity, reliability, and impact. I operate on the principle that software isn’t just aboht the code, it’s about the sum of all moving parts, the intersection of various user and how digitla systems can, and often do, become the infrastructure for people’s every day lives.
 
-I’m an active member of **IEEE Women in Engineering** and **IEEE Young Professionals**, and I’ve also independently built and developed technology solutions that have grown into real-world operations. My work blends technical depth with purpose — designing systems that are both human-centered and resilient.
+I’m an active member of **IEEE Women in Engineering** and **IEEE Young Professionals**, and I’ve also independently built and developed technology solutions that have grown into real-world operational expectations. My work blends technical depth with purpose such as, designing systems that are equal parts human-centered, secure, innovatove and resilient.
 
-I specialize in **React, TypeScript, Node.js, and Supabase**, but my real strength is adaptability — I can learn anything, solve anything, and deliver under real-world constraints.
+I specialize in **React, TypeScript, Node.js, and Supabase**, but my real strength is adaptability. I can learn and debug anything, solve anything, and deliver fearlesslly and under real-world constraints.
 
 > “I don’t just write code. I engineer systems that last — and I make them better when they break.”
 
@@ -24,13 +24,13 @@ I specialize in **React, TypeScript, Node.js, and Supabase**, but my real streng
 
 ### 💻 Engineering Philosophy
 I believe great engineering is about empathy, precision, and perseverance.  
-Whether I’m debugging an API, designing an interface, or re-thinking an architecture, I focus on solving root causes, writing maintainable code, and leaving things better than I found them. I put my best foot forward in everything I do — my values and my work ethic are what set me apart in the field. I don't always get it right, but I won't stop until I do. And if there is no known way, I’ll create one.
+Whether I’m debugging an API, designing an interface, or re-thinking an architecture, I focus on solving root causes, writing maintainable code, and leaving things better than I found them. I put my best foot forward in everything I do — my values and my work ethic are what set me apart in the field. I don't always get it right, but I won't stop until I do. And if there is no known way, then I’ll engineer one.
 
 ---
 
 ### 🧩 What I Do
-- Debug and reproduce complex issues across web and mobile systems  
-- Design, document, and deploy full-stack applications that scale  
+- Develop and Debug and reproduce complex issues across web and mobile systems  
+- Design, document, and deploy full-stack applications for mobile and web applixcations that scale  
 - Support users and teams in adopting tools and workflows that work for them  
 - Build automation scripts, dashboards, and developer utilities to simplify repetitive tasks  
 

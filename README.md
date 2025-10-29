@@ -1,48 +1,46 @@
 <h2 align="center">👋 Hi, I'm Lindsey Stead</h2>
-<h3 align="center">Software & Support Engineer | Systems Thinker | Human-Centered Design | Reliable. Resilient. Building, and Debugging.</h3>
+<h3 align="center">Full-Stack Software & Support Developer | Systems Thinker | Human-Centered Design | Reliable. Resilient. Real.</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&center=true&width=600&lines=Building+reliable+software+with+heart.;Engineering+systems+that+stand+up+under+pressure.;Turning+real-world+challenges+into+scalable+solutions." />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&center=true&width=600&lines=Building+reliable+software+with+heart.;Engineering+systems+that+stand+up+under+pressure.;Turning+real-world+tech+challenges+into+scalable+solutions." />
 </p>
 
 ---
 
 ## 👩‍💻 About Me
+I’m a **software and support developer** who builds and maintains systems that hold up under pressure — the same way I have in life.  
 
-I’m a **software and support engineer** who builds and maintains systems that stand up under pressure — the same way I have in life.  
-With degrees in **Computing Science and a computing science diploma  (with Distinction)**, **Health Sciences**, and **Psychology** degrees. Within my software and suport projects what sets me apart is I bring a rare mix of technical precision, human insight and analysis, and high-level systems thinking to every project I take on. I understand the motives behind user behavior and user experince and am well-versed in the psychological 
+I hold degrees in **Computing Science (with Distinction)**, **Health Sciences**, and **Psychology** — a blend that gives me both technical precision and human insight. I bring analytical thinking, empathy, and systems design together to build solutions that actually make life easier for people.
 
-I’ve **architected, debugged, and deployed full-stack production systems** used by real organizations and for all my projects I have been respnsible handling everything from **UI/UX and API design to system modeling, deployment, documentation, database design and security**. I focus on clarity, reliability, and impact. I operate on the principle that software isn’t just aboht the code, it’s about the sum of all moving parts, the intersection of various user and how digitla systems can, and often do, become the infrastructure for people’s every day lives.
+I’ve **architected, debugged, and deployed full-stack production systems** for real organizations, handling everything from **UI/UX and API design to databases, documentation, and security**. I also provide **IT support and automation solutions** for individuals and small businesses through my company, **Lifesaver Technology Services** — helping clients simplify their tech and keep things running smoothly.
 
-I’m an active member of **IEEE Women in Engineering** and **IEEE Young Professionals**, and I’ve also independently built and developed technology solutions that have grown into real-world operational expectations. My work blends technical depth with purpose such as, designing systems that are equal parts human-centered, secure, innovatove and resilient.
-
-I specialize in **React, TypeScript, Node.js, and Supabase**, but my real strength is adaptability. I can learn and debug anything, solve anything, and deliver fearlesslly and under real-world constraints.
-
+I specialize in **React, TypeScript, Node.js, Supabase, and SQL**, with hands-on experience in **Python, React Native, and PHP**.  
 > “I don’t just write code. I engineer systems that last — and I make them better when they break.”
 
 ---
 
 ### 💻 Engineering Philosophy
-I believe great engineering is about empathy, precision, and perseverance.  
-Whether I’m debugging an API, designing an interface, or re-thinking an architecture, I focus on solving root causes, writing maintainable code, and leaving things better than I found them. I put my best foot forward in everything I do — my values and my work ethic are what set me apart in the field. I don't always get it right, but I won't stop until I do. And if there is no known way, then I’ll engineer one.
+Great engineering starts with empathy and ends with reliability.  
+Whether I’m debugging an API, automating a process, or rethinking an interface, I aim for maintainable, human-centered solutions that work in the real world. I don’t stop until the problem is solved — and if no solution exists yet, I’ll engineer one.
 
 ---
 
 ### 🧩 What I Do
-- Develop and Debug and reproduce complex issues across web and mobile systems  
-- Design, document, and deploy full-stack applications for mobile and web applixcations that scale  
-- Support users and teams in adopting tools and workflows that work for them  
-- Build automation scripts, dashboards, and developer utilities to simplify repetitive tasks  
+- Design and deploy full-stack web and mobile applications  
+- Debug and reproduce complex technical issues across systems  
+- Build automation scripts and AI-powered tools for real-world workflows  
+- Provide end-to-end IT support for home users and small businesses (networks, devices, troubleshooting)  
+- Deliver documentation and training that help teams and users succeed  
 
 ---
 
 ## 🌟 Highlights
-- 🛠️ Designed, debugged, and supported live full-stack systems used by nonprofits and real end-users  
-- 🚀 Deployed scalable applications with production uptime and real operational use  
-- 🔐 Experienced in secure, maintainable architecture and modern authentication flows  
-- 🤖 Built AI-assisted mobile applications integrating OpenAI APIs  
-- 💬 Advocate for ethical, human-centered technology and accessible design  
-- 🧱 Solid foundation in data structures, algorithms, and system design  
+- 🛠️ Designed, debugged, and supported live full-stack systems used by nonprofits and real clients  
+- 🚀 Deployed production applications with real operational uptime  
+- 🔐 Experienced in secure architecture, authentication, and data protection  
+- 🤖 Built AI-assisted apps integrating OpenAI APIs  
+- 💬 Advocate for ethical, human-centered tech and accessibility  
+- 🧱 Solid foundation in algorithms, data structures, and systems design  
 - 👩‍🏫 Lifelong learner with a multidisciplinary mindset and mentoring experience  
 
 ---
@@ -50,31 +48,30 @@ Whether I’m debugging an API, designing an interface, or re-thinking an archit
 ## 🏗️ Featured Projects
 
 ### 🌐 [COFB Digital Check-In System](https://cofb-checkin.ca)
-**React • TypeScript • Chakra UI • Supabase Auth • Railway Backend • Two Vercel Frontend Components (Admin and Client)**  
-A production-ready intake and scheduling platform built for the **Central Okanagan Food Bank**, serving 130+ daily clients.  
-> Architected and deployed a multi-location platform featuring secure authentication, smart CSV parsing, and automated data flows to improve volunteer efficiency.  
-> A fully proprietary system that’s ready to serve locations across Canada and scale nationally.
+**React • TypeScript • Chakra UI • Supabase Auth • Railway Backend • Vercel Frontends**  
+A digital appointment and check-in system built for a community food bank to streamline client service and reduce volunteer workload.  
+> Architected a multi-location platform with secure authentication, CSV automation, and responsive UI.  
+> Fully proprietary and ready to scale across Canada.
 
 ---
 
 ### 📱 [ResilientHQ](https://github.com/lindseystead/resilienthq)
 **React Native • Expo Go • ChatGPT API • Secure Backend Integrations**  
-A full-stack mobile wellness platform designed to support caregivers facing burnout.  
-> Built from the ground up — architecture, APIs, integrations, and deployment. Includes emotion-aware journaling, daily mood tracking, and an in-app AI companion for real-time wellness support.
+A cross-platform caregiver wellness app with emotion-aware journaling and real-time AI chat support.  
+> Built and deployed from scratch with secure integrations and modular design.
 
 ---
 
 ### 🐾 [Pawsitive Placements](https://github.com/lindseystead/pawsitive-placements)
 **PHP • MySQL • Bootstrap**  
-A full-stack pet rehoming and adoption platform that serves to become a centralized onlike system that connects pet owners with new homes.  
-> Designed the complete SQL database schema and backend logic, implemented secure authentication, image uploads, and intelligent matching filters.  
-Deployed as a live, production-ready web application.
+A secure pet adoption and rehoming system with admin dashboards, authentication, and search filters.  
+> Designed and implemented the entire SQL schema, backend logic, and UI.
 
 ---
 
 ### ⚙️ [Ethical Automation Tools](https://github.com/lindseystead/ethical-automation-tools)
 **Python • APIs • LLMs**  
-A collection of lightweight automation and AI utilities that streamline real-world workflows while prioritizing privacy and ethical data handling.
+Lightweight automation and AI utilities that simplify daily workflows while prioritizing privacy and ethical data handling.
 
 ---
 
@@ -88,16 +85,14 @@ A collection of lightweight automation and AI utilities that streamline real-wor
 > **Primary:** React · TypeScript · Node.js · Supabase · React Native  
 > **Also:** Java · PHP · MySQL · Python · C · C++ · C#  
 > **Mobile:** Android (Java/Kotlin) · React Native (Expo)  
-> **Security:** Network Security · Secure System Design · Authentication & Data Protection  
-> **Tools:** Git · Linux · VS Code · Figma · Chakra UI · Tailwind CSS  
+> **Security:** Network Security · Secure System Design · Authentication & Data Privacy  
+> **Tools:** Git · Linux · VS Code · Figma · Tailwind CSS · Chakra UI  
 
 ---
 
 ## 🧠 Developer Stats
-I’m passionate about improving the developer experience — from writing clear code and documentation to automating repetitive tasks for business environments.  
-I also consult with people and organizations on how to integrate technology and AI into their daily lives to make their experience with digital tools more efficient and enjoyable.  
-
-Stay tuned for more GitHub repos — I regularly build in my favorite tech stack and am continuing to deploy and maintain CLI utilities, dashboards, and scripts that help teams and businesses ship faster, safer, and smarter.
+I’m passionate about improving the developer and user experience — writing clean, documented code and automating repetitive tasks.  
+Through Lifesaver Technology Services, I also help clients integrate technology and AI into daily operations to save time, reduce errors, and make tech feel human again.
 
 ---
 
@@ -118,7 +113,7 @@ Stay tuned for more GitHub repos — I regularly build in my favorite tech stack
 ## 🤝 Connect with Me
 
 <p align="center">
-  <i>If you're a food bank or community organization in Canada interested in using or adapting my digital check-in software, reach out — I'm open to collaboration.</i><br/><br/>
+  <i>If you’re a business or nonprofit looking for reliable tech systems, automation, or IT support — reach out, I’d love to collaborate.</i><br/><br/>
   <a href="https://www.linkedin.com/in/lindseystead" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
